@@ -1,0 +1,32 @@
+IP                   : 152.59.40.36
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Ahmedabad, India, Asia
+GeoLocation(lat, lon): 23.022505, 72.5713621
+Currency             : Indian Rupee
+IP                   : 152.59.40.36
+IP Type              : IPv4
+User OS              : Windows 10
+Version              : 10.0;
+Browser              : Chrome
+Location             : Ahmedabad, India, Asia
+GeoLocation(lat, lon): 23.022505, 72.5713621
+Currency             : Indian Rupee
+IP                   : 152.59.40.36
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Ahmedabad, India, Asia
+GeoLocation(lat, lon): 23.022505, 72.5713621
+Currency             : Indian Rupee
+IP                   : 152.59.40.36
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Ahmedabad, India, Asia
+GeoLocation(lat, lon): 23.022505, 72.5713621
+Currency             : Indian Rupee
